@@ -48,7 +48,7 @@
                         bindings = <
    &kp  TAB  &kp EXCL &kp LESS_THAN &kp DLLR &kp GREATER_THAN &kp AT_SIGN   &kp CARET &kp LBKT  &kp UNDER &kp RBKT &kp RPAR &kp BSPC
    &kp LCTRL &kp BSLH   &kp LPAR &kp DQT   &kp RPAR   &kp HASH      &kp PRCNT &kp LBRC &kp EQUAL  &kp RBRC &kp BSLH &kp GRAVE
-   &kp LSHFT &trans   &kp COLON &kp ASTRK   &kp PLUS   &kp MINUS      &kp SEMI &kp AMPS  &kp CARET  &kp TILDE &kp PIPE &kp TILDE
+   &kp LSHFT &kp QUESTION  &kp COLON &kp ASTRK   &kp PLUS   &kp MINUS      &kp SEMI &kp AMPS  &kp CARET  &kp TILDE &kp PIPE &kp TILDE
                              &kp LGUI &trans   &kp SPACE   &kp RET   &trans    &kp BSPC
                         >;
                 };
