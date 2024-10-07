@@ -34,8 +34,8 @@
                         bindings = <
    &kp TAB    &kp LEFT_ARROW       &kp UP_ARROW       &kp DOWN_ARROW       &kp RIGHT_ARROW       &kp N5         &kp KP_NUMBER_7   &kp KP_NUMBER_8   &kp KP_NUMBER_9 &kp N9    &kp N0 &kp BSPC
    &bt BT_CLR &kp TAB &kp PAGE_UP &kp PAGE_DOWN &kp HOME  &kp END   &kp KP_NUMBER_4 &kp KP_NUMBER_5 &kp KP_NUMBER_6 &kp RIGHT &bt BT_CLR &trans
-   &kp LSHFT  &kp LSHFT      &kp ESCAPE      &trans       &trans       &trans         &kp KP_NUMBER_1  &kp KP_NUMBER_2   &kp KP_NUMBER_3 &trans    &trans &trans
-                                    &kp LGUI     &trans       &kp SPACE      &kp RET  &kp KP_NUMBER_0   &kp RALT
+   &kp LSHFT  &kp LSHFT      &kp ESCAPE      &trans       &trans       &kp PRINTSCREEN        &kp KP_NUMBER_1  &kp KP_NUMBER_2   &kp KP_NUMBER_3 &trans    &trans &trans
+                                    &kp LGUI     &trans       &kp SPACE      &kp RET  &kp KP_NUMBER_0   &kp BSPC
                         >;
                 };
 
